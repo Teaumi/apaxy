@@ -1,3 +1,7 @@
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+</Files>
+
 #
 # Apaxy by @adamwhitcroft
 #
